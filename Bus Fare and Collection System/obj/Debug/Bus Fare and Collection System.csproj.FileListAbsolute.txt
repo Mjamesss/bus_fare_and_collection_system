@@ -1,0 +1,27 @@
+C:\Users\markj\source\repos\Bus Fare and Collection System\Bus Fare and Collection System\obj\Debug\Bus Fare and Collection System.csproj.AssemblyReference.cache
+C:\Users\markj\source\repos\Bus Fare and Collection System\Bus Fare and Collection System\obj\Debug\Bus Fare and Collection System.exe
+C:\Users\markj\source\repos\Bus Fare and Collection System\Bus Fare and Collection System\obj\Debug\Bus Fare and Collection System.pdb
+C:\Users\markj\source\repos\Bus Fare and Collection System\Bus Fare and Collection System\bin\Debug\Bus Fare and Collection System.exe.config
+C:\Users\markj\source\repos\Bus Fare and Collection System\Bus Fare and Collection System\bin\Debug\Bus Fare and Collection System.exe
+C:\Users\markj\source\repos\Bus Fare and Collection System\Bus Fare and Collection System\bin\Debug\Bus Fare and Collection System.pdb
+C:\Users\markj\source\repos\Bus Fare and Collection System\Bus Fare and Collection System\bin\Debug\Guna.UI2.dll
+C:\Users\markj\source\repos\Bus Fare and Collection System\Bus Fare and Collection System\obj\Debug\Bus_Fare_and_Collection_System.Cubao_dagupan.resources
+C:\Users\markj\source\repos\Bus Fare and Collection System\Bus Fare and Collection System\obj\Debug\Bus_Fare_and_Collection_System.Cubao_mariveles.resources
+C:\Users\markj\source\repos\Bus Fare and Collection System\Bus Fare and Collection System\obj\Debug\Bus_Fare_and_Collection_System.loadingPage.resources
+C:\Users\markj\source\repos\Bus Fare and Collection System\Bus Fare and Collection System\obj\Debug\Bus_Fare_and_Collection_System.MainPage.resources
+C:\Users\markj\source\repos\Bus Fare and Collection System\Bus Fare and Collection System\obj\Debug\Bus_Fare_and_Collection_System.Cubao_bolinao.resources
+C:\Users\markj\source\repos\Bus Fare and Collection System\Bus Fare and Collection System\obj\Debug\Bus_Fare_and_Collection_System.Cubao_baler.resources
+C:\Users\markj\source\repos\Bus Fare and Collection System\Bus Fare and Collection System\obj\Debug\Bus_Fare_and_Collection_System.Properties.Resources.resources
+C:\Users\markj\source\repos\Bus Fare and Collection System\Bus Fare and Collection System\obj\Debug\Bus_Fare_and_Collection_System.TerminalChoice.resources
+C:\Users\markj\source\repos\Bus Fare and Collection System\Bus Fare and Collection System\obj\Debug\Bus_Fare_and_Collection_System.terminals.resources
+C:\Users\markj\source\repos\Bus Fare and Collection System\Bus Fare and Collection System\obj\Debug\Bus Fare and Collection System.csproj.GenerateResource.cache
+C:\Users\markj\source\repos\Bus Fare and Collection System\Bus Fare and Collection System\obj\Debug\Bus Fare and Collection System.csproj.CoreCompileInputs.cache
+C:\Users\markj\source\repos\Bus Fare and Collection System\Bus Fare and Collection System\obj\Debug\Bus Fare and Collection System.csproj.CopyComplete
+C:\Users\markj\source\repos\Bus Fare and Collection System\Bus Fare and Collection System\obj\Debug\Bus_Fare_and_Collection_System.register_bus.resources
+C:\Users\markj\source\repos\Bus Fare and Collection System\Bus Fare and Collection System\bin\Debug\System.Data.SqlClient.dll
+C:\Users\markj\source\repos\Bus Fare and Collection System\Bus Fare and Collection System\bin\Debug\System.Data.SqlClient.xml
+C:\Users\markj\source\repos\Bus Fare and Collection System\Bus Fare and Collection System\bin\Debug\MySql.Data.dll
+C:\Users\markj\source\repos\Bus Fare and Collection System\Bus Fare and Collection System\bin\Debug\MySql.Data.xml
+C:\Users\markj\source\repos\Bus Fare and Collection System\Bus Fare and Collection System\bin\Debug\NuGet.Frameworks.dll
+C:\Users\markj\source\repos\Bus Fare and Collection System\Bus Fare and Collection System\obj\Debug\Bus_Fare_and_Collection_System.History.resources
+C:\Users\markj\source\repos\Bus Fare and Collection System\Bus Fare and Collection System\obj\Debug\Bus_Fare_and_Collection_System.Seat.resources
